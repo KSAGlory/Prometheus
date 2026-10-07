@@ -75,7 +75,7 @@ n8n, messaging platforms, connected services and the original template are separ
 
 ## Availability
 
-There is no public release package, hosted assistant access or launch date to announce yet. This repository contains reviewed project information only. The application source, live workflows, operating infrastructure and personal test records remain private.
+This repository contains reviewed project information only. The application source, live workflows, operating infrastructure and personal test records remain private.
 
 ## Author and Community
 
