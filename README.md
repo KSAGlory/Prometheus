@@ -67,16 +67,6 @@ The current check-in reports changes to pending parent tasks. It does not indepe
 
 External services have their own account requirements, usage limits, pricing and policies. Provider approval and costs must be assessed for each intended deployment. A working personal prototype does not establish readiness for customer access or a public launch.
 
-## Project foundation
-
-Prometheus was adapted from [n8nClaw, an n8n workflow template by Shabbir Noor](https://n8n.io/workflows/13717-run-a-self-hosted-multi-channel-ai-assistant-with-claude-gemini-and-gmail/). The private adaptation adds owner-scoped controls, verified tool operations, persistent records and bounded channel delivery. The original template is credited as the foundation rather than presented as work authored entirely from scratch.
-
-n8n, messaging platforms, connected services and the original template are separate projects with their own terms. No third-party source or workflow package is distributed through this repository.
-
-## Availability
-
-This repository contains reviewed project information only. The application source, live workflows, operating infrastructure and personal test records remain private.
-
 ## Author and Community
 
 - Author: **KSAGlory**
