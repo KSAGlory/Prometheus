@@ -110,11 +110,6 @@ This repository documents the project. It is not an installation package, hosted
 
 No public release, free distribution or launch date is announced. Any future availability would have separately stated terms; viewing this showcase does not grant access to the implementation.
 
-## Author and Community
-
-- Author: **KSAGlory**
-- Community: [discord.gg/ksahub](https://discord.gg/ksahub)
-
 ## License
 
 The Prometheus implementation remains private and proprietary. No application or source-code license is offered through this repository. Any future distribution would have separately stated terms. Third-party projects retain their respective rights and terms.
